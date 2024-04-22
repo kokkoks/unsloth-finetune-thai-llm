@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+mlruns/
+_unsloth_sentencepiece_temp/
+outputs/
+
 # C extensions
 *.so
 
